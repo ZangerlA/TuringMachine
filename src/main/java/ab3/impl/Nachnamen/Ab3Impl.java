@@ -9,7 +9,6 @@ public class Ab3Impl implements Ab3 {
 
     @Override
     public TuringMachine getEmptyTM() {
-	//TODO: Your implementation goes here!
-	return null;
+	    return new TM();
     }
 }
