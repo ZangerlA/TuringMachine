@@ -40,8 +40,6 @@ public class TM implements TuringMachine {
         return currentState;
     }
 
-
-
     @Override
     public void setAlphabet(Set<Character> alphabet) throws IllegalArgumentException {
         if (alphabet.contains(null)) {
