@@ -1,4 +1,4 @@
-package ab3.impl.Nachnamen;
+package ab3.impl.GroßmannDuellerZangerl;
 
 import ab3.TuringMachine;
 
@@ -213,6 +213,7 @@ public class TM implements TuringMachine {
                 }
             });
         }
+
     }
 
     @Override

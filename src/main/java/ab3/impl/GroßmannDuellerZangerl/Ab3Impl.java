@@ -1,6 +1,4 @@
-package ab3.impl.Nachnamen;
-
-import java.util.Set;
+package ab3.impl.GroßmannDuellerZangerl;
 
 import ab3.Ab3;
 import ab3.TuringMachine;
